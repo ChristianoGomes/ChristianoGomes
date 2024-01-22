@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ChristianoGomes
-- 👀 I’m interested in Crypto, Music , travel & Exercise
+- 👀 I’m interested in crypto, music , travel & Exercise
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on apps that will benefit society 
 - 📫 How to reach me Christianomiami@gmail.com
